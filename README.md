@@ -26,7 +26,7 @@
 ##
 
  ### Frameworks:
- <a href="https://github.com/leo-nardow">
+ <a href="https://github.com/celoselado">
 <div style="display: inline_block">
   <img align="center" alt="Xande-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Xande-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -35,7 +35,7 @@
 
 ## 
   ### Databases:
- <a href="https://github.com/leo-nardow">
+ <a href="https://github.com/celoselado">
 <div style="display: inline_block">
   <img align="center" alt="Xande-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Xande-Sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
