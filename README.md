@@ -47,4 +47,4 @@
  ### **Contact me:** 
   [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/celoselado)
 
-<a href="https://github.com/leo-nardow">
+<a href="https://github.com/celoselado">
