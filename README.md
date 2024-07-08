@@ -22,11 +22,11 @@
   <a href="mailto:malexandresantos@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/celoselado/" onclick="window.open(this.href, '_blank'); return false;">
+  <a href="https://www.linkedin.com/in/celoselado/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://celoselado.github.io" onclick="window.open(this.href, '_blank'); return false;">
+<a href="https://celoselado.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
 </a>
 </div>
