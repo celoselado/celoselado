@@ -12,9 +12,8 @@
 
   🏅 Graduated by **Generation Brasil** 
   
-  🛠️ I’m currently working on **a marketplace**
+  🛠️ I’m currently studying Systems Analysis and Development at **FIAP**
 
-  📚 I'm currently learning to improve my **Skills**
   
 </div>
 
