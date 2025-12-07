@@ -12,7 +12,7 @@
 
   🏅 Graduated by **Generation Brasil** 
   
-  🛠️ I’m currently studying Systems Analysis and Development at **FIAP**
+  🛠️ I’m currently studying Computer Science at **São Judas Tadeu**
 
   
 </div>
